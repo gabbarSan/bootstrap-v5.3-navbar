@@ -1,0 +1,19 @@
+.navbar{
+   background-color:#7c461fe3 !important;
+}
+
+.form-control{
+   background-color: #fff !important;
+}
+.dropdown-menu{
+   background-color: #6a421fcf !important;
+}
+
+.dropdown-item:hover{
+   background-color: #ddc3a538 !important;
+}
+
+.bg-image{
+   background-image: url('/assets/images/sydney-circular-quay-waterfront-restaurant.jpg');
+   min-height: 900px;
+}
